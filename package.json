@@ -1,0 +1,9 @@
+{
+  "name": "Portfolio Website",
+  "version": "1.0.0",
+  "description": "",
+  "main": "",
+  "scripts": {
+    "start": "cd client && npm install && npm run build"
+  }
+}
